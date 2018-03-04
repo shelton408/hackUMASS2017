@@ -2,7 +2,9 @@
 @Author Shelton Cai
 
 This is coded in matlab.
+
 In order to run the program, run main.m
+
 There are 4 sample output figures, sample1 sample2 sample3 untitled.
 
 Project details:
