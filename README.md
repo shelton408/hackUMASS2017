@@ -1,4 +1,5 @@
 # hackUMASS2017
+@Author Shelton Cai
 
 This is coded in matlab.
 In order to run the program, run main.m
