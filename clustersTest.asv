@@ -1,0 +1,12 @@
+dataDir = fullfile('img','test1.jpg');
+im1 = rgb2gray(imread(dataDir));
+[idx,C] = kmeans(im1(:), 4);
+length = size(idx)
+im = ones(1,length(1);
+for i = 1:length;
+    im(i) = C(idx(i));
+end
+clusters = reshape(im, size(im1));
+size(clusters)
+imshow(clusters);
+    
